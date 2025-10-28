@@ -1,0 +1,8 @@
+body { background-color: #f7f7fb; }
+.navbar .badge { vertical-align: top; }
+.product-card { transition: transform .08s ease, box-shadow .08s ease; }
+.product-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.08); }
+.card { border-radius: 1rem; }
+.btn, .form-control, .form-select { border-radius: .8rem; }
+footer { position: sticky; top: 100%; }
+.object-fit-contain { object-fit: contain; }
